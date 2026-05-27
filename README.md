@@ -1,6 +1,6 @@
 # PMM IMC Content Skills Playbook
 
-A library of Claude skills for Plaud's PMM team — built to make AI-assisted work more structured, consistent, and repeatable across the full content lifecycle.
+A library of Claude skills for Plaud's PMM-imc-content team — built to make AI workflow more structured, consistent, and repeatable across the full content lifecycle.
 
 ---
 
@@ -12,7 +12,7 @@ When the upstream thinking is thin, everyone who depends on it (IMC, regional, d
 
 The skills in this playbook are built around a different idea: **brief is the cheapest asset in the whole pipeline.** Invest more time upstream, and everything downstream gets easier and more consistent.
 
-One more thing worth saying upfront: **upstream thinking can't be outsourced to AI.** AI can help you go deeper, but the direction you give it is bounded by what you already know. The sharper your instincts and knowledge, the sharper the output. These skills give AI better instructions — they don't replace the judgment behind them.
+One more thing worth saying upfront: **upstream thinking can't be 100% outsourced to AI.** AI can help you go deeper, but the direction you give it is bounded by what you already know. The sharper your instincts and knowledge, the sharper the output. These skills give AI better instructions — they don't replace the judgment behind them.
 
 ---
 
@@ -124,7 +124,3 @@ A few things worth having an answer to before you write any brief:
 5. **What evidence do we have?** 70% proof is enough to move forward. Waiting for 100% means nothing ships.
 
 If you can answer these before opening a brief template, the brief writes itself.
-
----
-
-*Maintained by the PMM team. Add new skills as the team's workflow evolves.*
